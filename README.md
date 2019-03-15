@@ -65,6 +65,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Romain Clavel](https://clavel.io), développeur
 * [Romain Clement](https://romain-clement.net), CTO & développeur
 * [Yaacov Cohen](https://www.goodimpact.studio), développeur et dirigeant
+* [Paul Compagnon](https://www.linkedin.com/in/paul-compagnon-992a6299/), Doctorant IA
 * [Brice Coquereau](https://brice.coquereau.fr/), CTO & développeur
 * [Nicolas Damiens](https://twitter.com/chticolas), développeur
 * [Jean-Baptiste Desbas](https://twitter.com/jbdesbas), géomaticien
